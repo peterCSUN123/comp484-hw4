@@ -20,6 +20,6 @@ In this hw, you will work on the sample Comp484 site to determine where lists ar
 			
 4.	Examine HTML terms
 			a.	Applies to: reference.html
-			b.	Find the section for HTML terms
+			b.	Find the section for HTML termss
 			c. Examine the terms and their descriptions. Is this the best semantic grouping for the content?
 			d. If not, organize the links into the appropriate list type
